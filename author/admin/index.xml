@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luca Moreno-Louzada</title>
-    <link>/author/luca-moreno-louzada/</link>
-      <atom:link href="/author/luca-moreno-louzada/index.xml" rel="self" type="application/rss+xml" />
-    <description>Luca Moreno-Louzada</description>
+    <title>Admin | Luca Moreno-Louzada</title>
+    <link>/author/admin/</link>
+      <atom:link href="/author/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Admin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Luca Moreno-Louzada</title>
-      <link>/author/luca-moreno-louzada/</link>
+      <title>Admin</title>
+      <link>/author/admin/</link>
     </image>
     
     <item>
@@ -25,19 +25,6 @@
 &lt;/div&gt;
 &lt;h1 id=&#34;supplementary-notes-can-be-added-here-including-code-and-mathhttpssourcethemescomacademicdocswriting-markdown-latex&#34;&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Luca Moreno-Louzada</title>
-      <link>/author/luca-moreno-louzada/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/author/luca-moreno-louzada/</guid>
-      <description>&lt;p&gt;Hi! I am a predoctoral research fellow at Stanford University, working with Professor Matthew Gentzkow. I was previously at MIT, where I obtained a Master’s in Data, Economics, and Development Policy.&lt;/p&gt;
-&lt;p&gt;I am interested in development and health
-economics, particularly in their intersection with politics, trade, and environmental issues.&lt;/p&gt;
-&lt;p&gt;You can find my full CV 
-&lt;a href=&#34;../../files/cv.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -134,6 +121,19 @@ economics, particularly in their intersection with politics, trade, and environm
 &lt;/div&gt;
 &lt;h1 id=&#34;supplementary-notes-can-be-added-here-including-code-and-mathhttpssourcethemescomacademicdocswriting-markdown-latex&#34;&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Luca Moreno-Louzada</title>
+      <link>/author/luca-moreno-louzada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/luca-moreno-louzada/</guid>
+      <description>&lt;p&gt;Hi! I am a predoctoral research fellow at the Stanford Department of Economics, working with Professor Matthew Gentzkow. I was previously at MIT, where I obtained a Master’s in Data, Economics, and Development Policy.&lt;/p&gt;
+&lt;p&gt;I am interested in development and health
+economics, particularly in their intersection with politics, trade, and environmental issues.&lt;/p&gt;
+&lt;p&gt;You can find my full CV 
+&lt;a href=&#34;../../files/cv.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
